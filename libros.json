@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes"
+  },
+  {
+    "id": 2,
+    "titulo": "Crimen y castigo",
+    "autor": " Fiodor Dostoievski"
+  },
+  {
+    "id": 3,
+    "titulo": "Crimen y castigo",
+    "autor": " Fiodor Dostoievski"
+  },
+  {
+    "id": 4,
+    "titulo": "Crimen y castigo",
+    "autor": " Fiodor Dostoievski"
+  },
+  {
+    "id": 5,
+    "titulo": "Crimen y castigo",
+    "autor": " Fiodor Dostoievski"
+  },
+  {
+    "id": 6,
+    "titulo": "Crimen y castigo",
+    "autor": " Fiodor Dostoievski"
+  }
+]
